@@ -42,3 +42,18 @@ Tested on Ubuntu 16.04
 ## Development
 
 Bug reports and pull requests are welcome!
+
+# 🚀 I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: Nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
+* [PayPal.me](https://www.paypal.com/paypalme/nholuongut)
+
+![](https://i.imgur.com/waxVImv.png)
+![](Donate.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
